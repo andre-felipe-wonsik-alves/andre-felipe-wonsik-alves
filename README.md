@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Gosto de computação e me interesso sobre diversos temas dela. <br><br>Caso queira ver meu contexto profissional, refira ao link: [https://portfolio.andrewonsik.com.br](https://portfolio.andrewonsik.com.br) </p>
+<p align="left">Gosto de computação e me interesso sobre diversos temas dela. <br><br><strong>Caso queira ver meu contexto profissional, refira ao link: https://portfolio.andrewonsik.com.br</strong></p>
 
 ###
 
